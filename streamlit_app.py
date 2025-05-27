@@ -4,3 +4,4 @@ st.title("🎈 Reyza Cantik")
 st.write(
     "Hi ejazarey reyza."
 )
+st.image("file_00000000c2b061f7a933c095c260bbda.png", width=200)
